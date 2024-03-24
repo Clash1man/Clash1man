@@ -1,0 +1,49 @@
+if cissel CB-POST ['btnupdate']))
+
+$con = mysalis sonment, C'localhost", "root","",
+
+If CC! Bloni
+
+die ("Database not connected").
+
+3
+
+Sname = 6-Past Itname].
+
+Badd=5=POST [Hxtaddress17
+
+sary = "update thistudent setname: 'Shame', adbess = 'Badd' whereld - $Idle;
+
+$result = mysqli_query Csion, Sary); If (fresut
+
+Relho "Data edited
+
+3 elze
+
+echo "Error editing duta"",
+
+3 mysali-close (sions:
+
+3
+
+د
+
+chtmis
+
+<head> <tittle> Edit</title>
+
+<thead> <body>
+
+= <input type="text" name = "tat ld"> <br><br>
+
+ID Name: <input type='text' name='"'Hetname"> <br> <br> Address: Cinput type="text" name = "texteddress"> <br><br>
+
+input type="submit" value="sübmit" name=
+
+"btnsubmit">
+
+21form>
+
+2150 dy>
+
+</html>
