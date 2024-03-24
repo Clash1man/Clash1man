@@ -1,49 +1,45 @@
-if cissel CB-POST ['btnupdate']))
+wet( & POST ('btnsubmit门))
 
-$con = mysalis sonment, C'localhost", "root","",
+S-Post ['ld']
 
-If CC! Bloni
+name=$-POST Elname]
 
-die ("Database not connected").
+rciname==" "Il empty Coname))
 
-3
+eino name 1 empty";
 
-Sname = 6-Past Itname].
+3 if ($ld = = " "ll empty Cold))
 
-Badd=5=POST [Hxtaddress17
-
-sary = "update thistudent setname: 'Shame', adbess = 'Badd' whereld - $Idle;
-
-$result = mysqli_query Csion, Sary); If (fresut
-
-Relho "Data edited
-
-3 elze
-
-echo "Error editing duta"",
-
-3 mysali-close (sions:
+echo "Id is empty";
 
 3
 
-د
+else
 
-chtmis
+echo "ready to yo";
 
-<head> <tittle> Edit</title>
+3
 
-<thead> <body>
+3
 
-= <input type="text" name = "tat ld"> <br><br>
+<html>
 
-ID Name: <input type='text' name='"'Hetname"> <br> <br> Address: Cinput type="text" name = "texteddress"> <br><br>
+cheads
 
-input type="submit" value="sübmit" name=
+tittles tittle citittlos
 
-"btnsubmit">
+elhead>
 
-21form>
+2body's
 
-2150 dy>
+<form method="POST">
 
-</html>
+wername: <input type="text" id="name"> <br> Id : <input type="text" id="ld"> <br>
+
+<input type="submit valve = "Check">
+
+21form
+
+bodys
+
+21htm 17
