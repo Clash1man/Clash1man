@@ -1,0 +1,43 @@
+#include <stdio.h>
+
+#include <conio.h>
+
+int roll, class
+
+int n=1;
+
+char name [507.
+
+FILE *FP
+
+clrscr();
+
+fp=fopen("Student-dat", "cs"
+
+do
+
+Σ
+
+Printf("Enter rolliname.class) Srunf (dis, & roll, name, & Class);
+
+fprintf CFP; Inord It is it I'd roll, name,cluss t
+
+3whilecn<=61;
+
+fclose(FD);
+
+Printf ("In Roll no It Name It (lass"):
+
+fp-fopen ("student dat", "y");
+
+while (fscanf (fpId1.sted", & roll, name, &class);
+
+printf("In %d\+1.5 It'd roll, name, class);
+
+3
+
+fclose(fp);
+
+getchco
+
+3
