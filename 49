@@ -1,0 +1,55 @@
+Include Include Lionio- #
+
+#mclude <string.h>
+
+vold main()
+
+Σ
+
+int id;
+
+thar nafn sofaddesos, snamerso], FILE fopen("abc.txt","r");
+
+to pen (" temp.txt", "a"); printf ("Enter a name").
+
+Sla nf ("&", Shamel) while (fslunf (SD, "-do-sy's", eid name, add) J=EOF)
+
+Σ
+
+if (strempi (nume snames=01
+
+Σ
+
+FPrintf (fDt, "ond It 1-5 \t%s\n", diname,
+
+3
+
+addi
+
+else
+
+Σ
+
+printf("Enter diname, address");
+
+scanf("doksis", &ld, name,addi
+
+fprintf ("fot, "dors.I's" Id, name, add1;
+
+3
+
+3
+
+fclose(fp);
+
+f (laselfPt);
+
+remove ("abr.txt");
+
+rename "temp.txt", "abe.txt");
+
+Printf(" in Data Edited ","
+
+getch();
+
+3
