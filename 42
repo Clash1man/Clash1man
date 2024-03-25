@@ -1,0 +1,44 @@
+include <stdio.h> inclide Llonio.h> struct persan
+
+Σ
+
+int roll, class; char namerso]
+
+3 060 [50],t; void main()
+
+int iis, n')
+
+PrintfC" Ents no of data";
+
+US
+
+for (i=0; kn; 4
+
+{ printf Center, ld"] Printf ("Enter namell); scanf("%s" obuti].name); printf("Enter class"); Scanf("d", &obs Eiz.class;
+
+ar
+
+3
+
+for (i=0;kn: I++)
+
+forcs=i+1; j<n;j++)
+
+If Cobuti] roll Lo551]-7011)
+
+t=obj[i];
+
+ObJEV]=t;
+
+3
+PrintFC" In Roll malt Namelt classi Salize, 12n; +)
+
+gram te
+
+different
+
+printf("\n%dit +5 Hd, obsEiJ-roll/obacianowej include LC ONG]-class);
+
+3
+
+3
