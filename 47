@@ -1,0 +1,43 @@
+#include <stdio.h>
+
+#include <conio.h>
+
+void main CI
+
+int id;
+
+Char name Iso], add [so]
+
+Emplo
+
+FILE FD FPE;
+
+clrscr();
+
+24
+
+Fp=fopen("source.txt", "r");
+
+22
+
+Fpt = fopen("destination.txt", "w");
+
+2
+
+while (fscanf Cf P. "%d %5%-s", & id, name, add)
+
+{
+
+1= EOF)
+
+fprintf(fpt dit "%. Sit I-s\n", Idiname add);
+
+3
+
+fclose(fp);
+
+Frlose(fpts Printf("In Data copied succussfully");
+
+getch();
+
+3
