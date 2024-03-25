@@ -1,0 +1,49 @@
+include <stdio.ho viorluk Clonio.h>
+
+vold maine)
+
+int be
+
+char An E50], Pesol,ch;
+
+FILE FO
+
+lo-fopen("book-tet", "a"); 19
+
+do
+
+printf ("Enter book cock"); scanf Cd & be
+
+autha's hamell printf ("Enter author's namell.
+
+8000
+
+sranf ("S", An);
+
+150
+
+Printf (" Enter pubisher");
+
+scanf 06, P
+
+fprintf (fp" in "dity.sts", br. AniPl
+
+printf ("Do you bouwant to continue? (Y/N)");
+
+3
+
+while Cch == "y" lich == "y")",
+
+Fclose SP)
+
+Printf("In Boor code It Author's name it Publoha
+
+fp = fopen("book.txt", "r");
+
+whilelfsra nf (fp", "d" Sots", & br, An,p)!=Eof)
+
+کے
+
+Printf("In dit is it is "be. AniPl
+
+3
