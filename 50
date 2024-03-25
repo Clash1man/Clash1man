@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+#include <conio.h>
+
+void main CI
+
+FILE *fp, *fpt;
+
+Clrscr();
+
+fp=fopen("4be- dat");
+
+fpt = fopenc"and.dat"1,
+
+fclose (fp))
+
+fclose (fpt);
+
+remove l"abc-dutl;
+
+renanel and dat", "abc.dat");
+
+Printf (" Renamed and deleted");
+
+getches;
+
+3
