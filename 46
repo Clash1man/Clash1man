@@ -1,0 +1,51 @@
+Include <stdio.h>
+
+Include<conio.h> void main()
+
+Σ
+
+Int s
+
+Char PE10], neso]rch;
+
+file *fp;
+
+Dublishe
+
+FP= fopen("record.dat", "a"); do
+
+Readmore
+
+Printf("Enter employee", name")
+
+Sunrise
+
+Sranf ("%s", n);
+
+Agam
+
+Printf ("Enter employee, post");
+
+branf "s", P
+
+Printe "Enter employees salary")ン sranfc"..d", PSI,
+
+fprintf (fp", Inst.sity.d", nipis);
+
+printf ("Do yo want to continues (Y/N)"); Scarf C"C", ech);
+
+3 while (ch= "y "lich = "y");
+
+fclose (fpl
+
+Printf "In Employee's name It Employee's Post It Employee salary");
+
+fp = fopen("recard-dat", "r");
+
+while (srunt (fp/"1.s1.sld", n.P.S)!=EOF)
+
+Σ
+
+IF CS > 15000 && $c25000
+
+Printf ("In %s\tist+d", nipis);
