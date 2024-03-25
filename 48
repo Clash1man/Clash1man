@@ -1,0 +1,41 @@
+#include <stdio.h>
+
+#include<conio.h>
+
+#include <string.h>
+
+void main ()
+
+Σ
+
+int Id
+
+char name [50], add [So], Snametso]; FILE FP, FPE;
+
+Fot=fopen("temp-txt", "w"); Printfc "Enter ana me");"
+
+fp = fopen ("abc.txt", "r"). Sianf ("%s", snamel; while (fscanf LFP, "d-1-si-s", &ld, name, add) !=EOF)
+
+S If cstrempicname isnames!=0)
+
+3 fprint C fpt, "1-d Lt 1.5 It is un", id, nam
+
+fully
+
+3
+
+3
+
+fclose(fp);
+
+f (love (fPt)
+
+remove("abetxt"!.
+
+rename("temp-txt", "abc.tat");
+
+addl
+
+Printf("In Data deleted"); getch U;
+
+3
